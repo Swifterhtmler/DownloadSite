@@ -260,7 +260,7 @@ body {
     overflow-x: hidden;
     gap: 10px;
     display: flex;
-    row-gap: 50px;
+    
   }
 
   #copyright {
@@ -273,22 +273,24 @@ a:link {
     color: darkgrey;
   }
   
-  /* visited link */
+  /* visited link 
   a:visited {
     color: green;
-  }
+  }*/
   
   /* mouse over link */
   a:hover {
     color: yellow;
   }
   
-  /* selected link */
+  /* selected link 
   a:active {
     color: blue;
-  }
+  }*/
 
-
+   #linkk {
+    color: darkgrey;
+   }
 
 
   a:link {
